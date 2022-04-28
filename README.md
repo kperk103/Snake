@@ -1,2 +1,2 @@
 # Snake
-Implementation of the classic game snake
+Implementation of the classic game Snake using Python. At the beginning of each game, users can choose their difficulty level. The main idea of the game is to eat as many apples as possible without colliding into yourself or the borders. The snake grows longer as more apples are eaten. You can see your score in the top left hand of the corner at all times, and at the end of the game, your score is displayed. Most features of this game are modifiable, such as the head of the snake, the body of the snake, and the apple.
